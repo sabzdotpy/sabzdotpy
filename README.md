@@ -25,5 +25,7 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="27" height="25"/> </a> 
 </p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabzdotpy&theme=algolia&show_icons=true" />
+
 
 
