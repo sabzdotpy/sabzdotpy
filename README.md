@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sabari.</h1>
-- 🌱 I’m currently learning <strong>ReactJS.</strong>
+- 🌱 I’m currently learning <strong>NextJS.</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
