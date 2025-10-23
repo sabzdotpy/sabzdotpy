@@ -2,7 +2,7 @@
 
   
   - 🌱 I’m currently learning **C#, ASP.NET**  
-- 📫 How to reach me **sabari.codes@gmail.com**
+- 📫 Reach me at **sabari.codes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
