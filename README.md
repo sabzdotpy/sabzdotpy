@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabari</h1>  
 
   
-  - 🌱 I’m currently learning **C#, ASP.NET**  
 - 📫 Reach me at **sabari.codes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
